@@ -20,7 +20,7 @@
     {
       "name": "Skills",
       "kind": "links",
-      "blurb": "The skills I install, grouped by what they are for. Star counts and licenses come from GitHub and are refreshed weekly.",
+      "blurb": "The skills I install, grouped by what they are for. Star counts and licenses come from GitHub and are refreshed with every sync. The last group, Installed on my machine, is synced automatically from the skill lock on my Mac: everything installed that is not already listed above, with the skill's own description and the install date.",
       "subsections": [
         "General",
         "Token burn & models",
@@ -32,7 +32,8 @@
         "Research",
         "Image & Video Editing",
         "Marketing - Content & Writing",
-        "Marketing - Ads & SEO"
+        "Marketing - Ads & SEO",
+        "Installed on my machine"
       ]
     },
     {
