@@ -1,10 +1,10 @@
 # awesome-sync report
 
-Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-09-19. Block ids are Notion block ids (open the page and append `#<id without dashes>` to jump).
+Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-08. Block ids are Notion block ids (open the page and append `#<id without dashes>` to jump).
 
 ## Counts
 
-- entries: 136
+- entries: 137
 - Agent teams and subagents: 3
 - Collections: 6
 - Field notes / Context: 1
@@ -13,6 +13,7 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-09-19. Block id
 - Field notes / Personal assistant: 1
 - Learn: 12
 - Prompting: 5
+- Skills: 1
 - Skills / Development: 15
 - Skills / General: 11
 - Skills / Image & Video Editing: 9
@@ -22,8 +23,8 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-09-19. Block id
 - Skills / Research: 2
 - Skills / Token burn & models: 5
 - Skills / Webdesign MCP & UI elements: 3
-- Skills / Webdesign dev skills: 16
-- Skills / Webdesign taste skills: 17
+- Skills / Webdesign dev skills: 17
+- Skills / Webdesign taste skills: 16
 - Tools and memory: 5
 - n8n with Claude Code: 2
 - notes: 152
@@ -255,8 +256,9 @@ Blocks forced private by config (private_block_ids):
 - google-drive: 3
 - drive.google.com (39ddaecf-ce6b-80e1-9d16-d41b888217e6, Skills)
 - drive.google.com (3a9daecf-ce6b-8055-9653-dc70f96cb6cf, Skills)
-- notion: 7
+- notion: 9
 - www.notion.so (332daecf-ce6b-80f9-bfbd-ebba1ed3b5fb, Skills)
+- app.notion.com (3e8daecf-ce6b-801a-8b0b-f0bca920bac4, Skills)
 - www.notion.so (356daecf-ce6b-80b0-9b56-eb09c8c37cad, Skills)
 - www.notion.so (356daecf-ce6b-8045-be74-fbe483b29300, Skills)
 - www.notion.so (356daecf-ce6b-802d-8231-c1d0bbf3b9cc, Skills)
@@ -303,6 +305,7 @@ Blocks forced private by config (private_block_ids):
 - YouTube video RAZVk5NPNtE - https://www.youtube.com/watch?v=RAZVk5NPNtE (342daecf-ce6b-80b4-b625-f43e9619a0de)
 - YouTube video wkv2ifxPpF8 - https://www.youtube.com/watch?v=wkv2ifxPpF8 (355daecf-ce6b-80d0-8ef5-ca8eceea0abb)
 - YouTube video ZAaxx3qyT8g - https://www.youtube.com/watch?v=ZAaxx3qyT8g (36edaecf-ce6b-801e-9cbd-ddaa6c31d5dc)
+- Instagram post Db1USzsMNnZ - https://www.instagram.com/reel/Db1USzsMNnZ?stkn=bHZtdTZsMndpZnJ4 (3e8daecf-ce6b-808f-84ba-e31480749044)
 - theaileverage.beehiiv.com/p - https://theaileverage.beehiiv.com/p/top-5-claude-code-front-end-skills (35fdaecf-ce6b-8076-8bc7-f248b6a47d84)
 - jeffallan.github.io/claude-skills - https://jeffallan.github.io/claude-skills/skills-guide (34fdaecf-ce6b-8035-9a69-fecbafd89a9b)
 - thevibefounder.com/r - https://thevibefounder.com/r/loops (39cdaecf-ce6b-8046-8b8e-d2e2c21143fa)
@@ -318,6 +321,7 @@ Blocks forced private by config (private_block_ids):
 
 ## Description taken from the parent block
 
+- Instagram post Db1USzsMNnZ (3e8daecf-ce6b-808f-84ba-e31480749044)
 - YouTube video O2k_qwZA8HU (33adaecf-ce6b-8013-90f1-e157391faa33)
 - steipete/CodexBar (CodexBar-0.22.zip) (349daecf-ce6b-80f3-a0ed-de4aee7469eb)
 - apps.apple.com/us (349daecf-ce6b-801a-a9b3-defb06a07c2a)
