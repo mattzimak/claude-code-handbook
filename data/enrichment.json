@@ -10,7 +10,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 63748,
+  "stars": 63750,
   "status": "ok",
   "url": "https://github.com/mvanhorn/last30days-skill"
  },
@@ -25,7 +25,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/gpt-tasteskill"
  },
@@ -40,9 +40,24 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/stitch-skill"
+ },
+ "10744c67": {
+  "archived": false,
+  "final_url": "https://github.com/shadcn-ui/ui/tree/main/skills/shadcn",
+  "full_name": "shadcn-ui/ui",
+  "gh_description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+  "homepage": "https://ui.shadcn.com",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-08",
+  "stars": 125126,
+  "status": "redirected",
+  "url": "https://github.com/shadcn/ui/tree/main/skills/shadcn"
  },
  "117d2cb5": {
   "archived": false,
@@ -55,7 +70,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-04",
-  "stars": 18537,
+  "stars": 18541,
   "status": "ok",
   "url": "https://github.com/AgriciDaniel/claude-seo"
  },
@@ -74,6 +89,21 @@
   "status": "ok",
   "url": "https://github.com/kepano/obsidian-skills"
  },
+ "13365b9b": {
+  "archived": false,
+  "final_url": "https://github.com/arvindrk/extract-design-system/tree/main/skills/extract-design-system",
+  "full_name": "arvindrk/extract-design-system",
+  "gh_description": "Extract design tokens (colors, typography, spacing, border radius, shadows) from any public website. Generates JSON and CSS custom properties for local projects. Available as an AI agent skill (Claude, Cursor, Codex) and standalone CLI.",
+  "homepage": "https://www.npmjs.com/package/extract-design-system",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-09-05",
+  "stars": 236,
+  "status": "ok",
+  "url": "https://github.com/arvindrk/extract-design-system/tree/main/skills/extract-design-system"
+ },
  "1440c17d": {
   "archived": false,
   "final_url": "https://github.com/levineam/qmd-skill",
@@ -89,6 +119,21 @@
   "status": "ok",
   "url": "https://github.com/levineam/qmd-skill"
  },
+ "15784760": {
+  "archived": false,
+  "final_url": "https://github.com/alirezarezvani/claude-skills",
+  "full_name": "alirezarezvani/claude-skills",
+  "gh_description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents - engineering, marketing, product, compliance, C-level advisory, research, business operations, commerc",
+  "homepage": "https://alirezarezvani.medium.com/",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-08-30",
+  "stars": 27862,
+  "status": "ok",
+  "url": "https://github.com/alirezarezvani/claude-skills"
+ },
  "1622f128": {
   "archived": false,
   "final_url": "https://github.com/ericosiu/ai-marketing-skills",
@@ -103,6 +148,21 @@
   "stars": 3616,
   "status": "ok",
   "url": "https://github.com/ericosiu/ai-marketing-skills"
+ },
+ "18d7c5f8": {
+  "archived": false,
+  "final_url": "https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices",
+  "full_name": "supabase/agent-skills",
+  "gh_description": "Agent Skills to help developers using AI agents with Supabase",
+  "homepage": "https://supabase.com/docs/guides/getting-started/ai-skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-02",
+  "stars": 2708,
+  "status": "ok",
+  "url": "https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices"
  },
  "1913a671": {
   "archived": false,
@@ -160,7 +220,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/redesign-skill"
  },
@@ -190,7 +250,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 296507,
+  "stars": 296512,
   "status": "ok",
   "url": "https://github.com/obra/superpowers"
  },
@@ -220,7 +280,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 179978,
+  "stars": 179981,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md"
  },
@@ -235,7 +295,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53719,
+  "stars": 53720,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo"
  },
@@ -250,7 +310,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 179978,
+  "stars": 179981,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md"
  },
@@ -265,7 +325,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 36264,
+  "stars": 36267,
   "status": "ok",
   "url": "https://github.com/JCodesMore/ai-website-cloner-template"
  },
@@ -283,6 +343,21 @@
   "status": "ok",
   "url": "https://www.instagram.com/p/DaA-8wLE2NX"
  },
+ "2ea51e6a": {
+  "archived": false,
+  "final_url": "https://github.com/GoogleChrome/modern-web-guidance/tree/main/skills/chrome-extensions",
+  "full_name": "GoogleChrome/modern-web-guidance",
+  "gh_description": "Keep your coding agent up to date with the latest web best practices",
+  "homepage": "https://goo.gle/modern-web-guidance",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "Apache-2.0",
+  "oembed_title": "",
+  "pushed_at": "2026-10-07",
+  "stars": 2421,
+  "status": "ok",
+  "url": "https://github.com/googlechrome/modern-web-guidance/tree/main/skills/chrome-extensions"
+ },
  "2f9d2670": {
   "archived": false,
   "final_url": "https://github.com/rohitg00/agentmemory",
@@ -297,6 +372,21 @@
   "stars": 29245,
   "status": "ok",
   "url": "https://github.com/rohitg00/agentmemory"
+ },
+ "3130deef": {
+  "archived": false,
+  "final_url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape",
+  "full_name": "mattpocock/skills",
+  "gh_description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "homepage": "https://aihero.dev/skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-08",
+  "stars": 280817,
+  "status": "ok",
+  "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape"
  },
  "32e5d7a6": {
   "archived": false,
@@ -330,6 +420,21 @@
   "status": "ok",
   "url": "https://www.linkedin.com/posts/kieranjflanagan_claude-code-is-a-superpower-for-content-creators-ugcPost-7439322613698662401-Kt9I"
  },
+ "340b4fc9": {
+  "archived": false,
+  "final_url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines",
+  "full_name": "vercel-labs/agent-skills",
+  "gh_description": "Vercel's official collection of agent skills",
+  "homepage": "https://skills.sh/vercel-labs/agent-skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "",
+  "oembed_title": "",
+  "pushed_at": "2026-08-28",
+  "stars": 32087,
+  "status": "ok",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines"
+ },
  "35193499": {
   "archived": false,
   "final_url": "https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md",
@@ -341,7 +446,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 179978,
+  "stars": 179981,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md"
  },
@@ -356,7 +461,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44329,
+  "stars": 44332,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/apple-design"
  },
@@ -371,7 +476,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44329,
+  "stars": 44332,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/improve-animations"
  },
@@ -402,7 +507,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 40019,
+  "stars": 40020,
   "status": "ok",
   "url": "https://github.com/hkuds/lightrag"
  },
@@ -417,9 +522,24 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/taste-skill"
+ },
+ "3c990088": {
+  "archived": false,
+  "final_url": "https://github.com/addyosmani/web-quality-skills",
+  "full_name": "addyosmani/web-quality-skills",
+  "gh_description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+  "homepage": "",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-08-24",
+  "stars": 2907,
+  "status": "ok",
+  "url": "https://github.com/addyosmani/web-quality-skills"
  },
  "3cc8c26d": {
   "archived": false,
@@ -447,7 +567,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-09-18",
-  "stars": 76703,
+  "stars": 76704,
   "status": "ok",
   "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/content-research-writer/SKILL.md"
  },
@@ -477,9 +597,24 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 179978,
+  "stars": 179981,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+ },
+ "3f9ffc1f": {
+  "archived": false,
+  "final_url": "https://github.com/GoogleChrome/modern-web-guidance/tree/main/skills/modern-web-guidance",
+  "full_name": "GoogleChrome/modern-web-guidance",
+  "gh_description": "Keep your coding agent up to date with the latest web best practices",
+  "homepage": "https://goo.gle/modern-web-guidance",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "Apache-2.0",
+  "oembed_title": "",
+  "pushed_at": "2026-10-07",
+  "stars": 2421,
+  "status": "ok",
+  "url": "https://github.com/googlechrome/modern-web-guidance/tree/main/skills/modern-web-guidance"
  },
  "3fa1090a": {
   "also": {
@@ -499,7 +634,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 110554,
+  "stars": 110555,
   "status": "ok",
   "url": "https://github.com/JuliusBrussee/caveman"
  },
@@ -514,7 +649,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 275213,
+  "stars": 275225,
   "status": "ok",
   "url": "https://github.com/affaan-m/ecc"
  },
@@ -534,6 +669,21 @@
   "status": "ok",
   "url": "https://jeffallan.github.io/claude-skills/skills/workflow/spec-miner"
  },
+ "4580e283": {
+  "archived": false,
+  "final_url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats",
+  "full_name": "mattpocock/skills",
+  "gh_description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "homepage": "https://aihero.dev/skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-08",
+  "stars": 280817,
+  "status": "ok",
+  "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats"
+ },
  "45b2653d": {
   "archived": false,
   "final_url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit",
@@ -545,7 +695,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit"
  },
@@ -592,7 +742,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-08-31",
-  "stars": 110152,
+  "stars": 110154,
   "status": "ok",
   "url": "https://github.com/openai/whisper"
  },
@@ -639,7 +789,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-07-08",
-  "stars": 33973,
+  "stars": 33974,
   "status": "ok",
   "url": "https://github.com/openai/codex-plugin-cc"
  },
@@ -681,7 +831,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44329,
+  "stars": 44332,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/find-animation-opportunities"
  },
@@ -696,7 +846,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 296507,
+  "stars": 296512,
   "status": "ok",
   "url": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees"
  },
@@ -714,6 +864,21 @@
   "stars": null,
   "status": "ok",
   "url": "https://www.threads.com/@iamkhanphd/post/DV8kMGKDrm8?slof=1"
+ },
+ "57fa799a": {
+  "archived": false,
+  "final_url": "https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-dashboard-reporting",
+  "full_name": "firecrawl/firecrawl-workflows",
+  "gh_description": "",
+  "homepage": "",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "ISC",
+  "oembed_title": "",
+  "pushed_at": "2026-08-21",
+  "stars": 185,
+  "status": "ok",
+  "url": "https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-dashboard-reporting"
  },
  "586d93ec": {
   "also": {
@@ -733,7 +898,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 74228,
+  "stars": 74230,
   "status": "ok",
   "url": "https://github.com/diegosouzapw/OmniRoute"
  },
@@ -752,6 +917,36 @@
   "stars": null,
   "status": "ok",
   "url": "https://jeffallan.github.io/claude-skills/skills/workflow/the-fool"
+ },
+ "5ad9454e": {
+  "archived": false,
+  "final_url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments",
+  "full_name": "mattpocock/skills",
+  "gh_description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "homepage": "https://aihero.dev/skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-08",
+  "stars": 280817,
+  "status": "ok",
+  "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments"
+ },
+ "5ba78fdb": {
+  "archived": false,
+  "final_url": "https://github.com/firecrawl/cli",
+  "full_name": "firecrawl/cli",
+  "gh_description": "CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents",
+  "homepage": "http://docs.firecrawl.dev/cli",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "",
+  "oembed_title": "",
+  "pushed_at": "2026-10-08",
+  "stars": 644,
+  "status": "ok",
+  "url": "https://github.com/firecrawl/cli"
  },
  "5c74eef3": {
   "archived": false,
@@ -800,6 +995,13 @@
   "url": "https://x.com/eyad_khrais/status/2010076957938188661"
  },
  "5f850bcb": {
+  "also": {
+   "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/ui-ux-pro-max": {
+    "final_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/ui-ux-pro-max",
+    "http_status": 200,
+    "status": "ok"
+   }
+  },
   "archived": false,
   "final_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
   "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -810,7 +1012,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 133856,
+  "stars": 133857,
   "status": "ok",
   "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
  },
@@ -825,7 +1027,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 27402,
+  "stars": 27410,
   "status": "ok",
   "url": "https://github.com/anthropics/knowledge-work-plugins"
  },
@@ -855,9 +1057,24 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 4908,
+  "stars": 4909,
   "status": "ok",
   "url": "https://github.com/remotion-dev/skills"
+ },
+ "6274691d": {
+  "archived": false,
+  "final_url": "https://github.com/currents-dev/playwright-best-practices-skill",
+  "full_name": "currents-dev/playwright-best-practices-skill",
+  "gh_description": "AI Skill for Playwright Best Practices-made by Currents.dev",
+  "homepage": "",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-07-21",
+  "stars": 393,
+  "status": "ok",
+  "url": "https://github.com/currents-dev/playwright-best-practices-skill"
  },
  "6675575e": {
   "archived": false,
@@ -886,7 +1103,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53719,
+  "stars": 53720,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills"
  },
@@ -961,7 +1178,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/minimalist-skill"
  },
@@ -979,6 +1196,21 @@
   "status": "ok",
   "url": "https://www.instagram.com/p/DWfCQdLEjDL"
  },
+ "78862394": {
+  "archived": false,
+  "final_url": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/tailwind-design-system",
+  "full_name": "wshobson/agents",
+  "gh_description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+  "homepage": "https://sethhobson.com",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-05",
+  "stars": 40304,
+  "status": "ok",
+  "url": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/tailwind-design-system"
+ },
  "78a658bc": {
   "also": {
    "https://www.youtube.com/watch?v=8_7Sq6Vu0S4": {
@@ -988,17 +1220,18 @@
    }
   },
   "archived": false,
+  "error": "bot-blocking host answered 403",
   "final_url": "https://www.reddit.com/r/ClaudeAI/comments/1q4yjo0/get_shit_done_the_1_cc_framework_for_people_tired/",
   "full_name": "",
   "gh_description": "",
-  "http_status": 200,
+  "http_status": 403,
   "last_checked": "2026-10-08",
   "license": "",
   "oembed_title": "",
   "page_title": "Reddit",
   "pushed_at": "",
   "stars": null,
-  "status": "ok",
+  "status": "manual_ok",
   "url": "https://www.reddit.com/r/ClaudeAI/comments/1q4yjo0/get_shit_done_the_1_cc_framework_for_people_tired"
  },
  "7ddaf9b8": {
@@ -1042,7 +1275,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 2180,
+  "stars": 2181,
   "status": "ok",
   "url": "https://github.com/digitalsamba/claude-code-video-toolkit"
  },
@@ -1064,7 +1297,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 2056,
+  "stars": 2057,
   "status": "ok",
   "url": "https://github.com/figma/mcp-server-guide/tree/main/skills"
  },
@@ -1079,7 +1312,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/imagegen-frontend-web"
  },
@@ -1125,6 +1358,21 @@
   "status": "ok",
   "url": "https://github.com/vercel-labs/agent-skills"
  },
+ "86c49200": {
+  "archived": false,
+  "final_url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-build/skills/react-components",
+  "full_name": "google-labs-code/stitch-skills",
+  "gh_description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "Apache-2.0",
+  "oembed_title": "",
+  "pushed_at": "2026-08-17",
+  "stars": 8442,
+  "status": "ok",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-build/skills/react-components"
+ },
  "8898dc1f": {
   "archived": false,
   "final_url": "https://github.com/heygen-com/hyperframes",
@@ -1136,7 +1384,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 59066,
+  "stars": 59074,
   "status": "ok",
   "url": "https://github.com/heygen-com/hyperframes"
  },
@@ -1178,7 +1426,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53719,
+  "stars": 53720,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/content-strategy/SKILL.md"
  },
@@ -1212,6 +1460,21 @@
   "status": "ok",
   "url": "https://github.com/snarktank/antfarm"
  },
+ "96578b56": {
+  "archived": false,
+  "final_url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-view-transitions",
+  "full_name": "vercel-labs/agent-skills",
+  "gh_description": "Vercel's official collection of agent skills",
+  "homepage": "https://skills.sh/vercel-labs/agent-skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "",
+  "oembed_title": "",
+  "pushed_at": "2026-08-28",
+  "stars": 32087,
+  "status": "ok",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-view-transitions"
+ },
  "9c241fb4": {
   "archived": false,
   "final_url": "https://github.com/anthropics/claude-code",
@@ -1223,7 +1486,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 149697,
+  "stars": 149699,
   "status": "ok",
   "url": "https://github.com/anthropics/claude-code"
  },
@@ -1231,6 +1494,11 @@
   "also": {
    "https://github.com/emilkowalski/skill": {
     "final_url": "https://github.com/emilkowalski/skills",
+    "http_status": 200,
+    "status": "redirected"
+   },
+   "https://github.com/emilkowalski/skill/tree/main/skills/emil-design-eng": {
+    "final_url": "https://github.com/emilkowalski/skills/tree/main/skills/emil-design-eng",
     "http_status": 200,
     "status": "redirected"
    }
@@ -1245,7 +1513,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44329,
+  "stars": 44332,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/emil-design-eng"
  },
@@ -1260,7 +1528,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44329,
+  "stars": 44332,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/review-animations"
  },
@@ -1297,7 +1565,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/image-to-code-skill"
  },
@@ -1343,23 +1611,24 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53719,
+  "stars": 53720,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit"
  },
  "a2f4b4b5": {
   "archived": false,
+  "error": "bot-blocking host answered 403",
   "final_url": "https://www.reddit.com/r/ClaudeAI/comments/1r6cn6t/what_5_months_of_nonstop_claude_code_taught_me/",
   "full_name": "",
   "gh_description": "",
-  "http_status": 200,
+  "http_status": 403,
   "last_checked": "2026-10-08",
   "license": "",
   "oembed_title": "",
   "page_title": "Reddit",
   "pushed_at": "",
   "stars": null,
-  "status": "ok",
+  "status": "manual_ok",
   "url": "https://www.reddit.com/r/ClaudeAI/comments/1r6cn6t/what_5_months_of_nonstop_claude_code_taught_me"
  },
  "a344ea51": {
@@ -1402,7 +1671,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/soft-skill"
  },
@@ -1421,6 +1690,21 @@
   "status": "ok",
   "url": "https://github.com/supermemoryai/claude-supermemory"
  },
+ "a6b84e27": {
+  "archived": false,
+  "final_url": "https://github.com/emilkowalski/skills",
+  "full_name": "emilkowalski/skills",
+  "gh_description": "Skills for Designers and Engineers.",
+  "homepage": "https://emilkowal.ski/skill",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-02",
+  "stars": 44332,
+  "status": "ok",
+  "url": "https://github.com/emilkowalski/skills"
+ },
  "a8020624": {
   "archived": false,
   "final_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/lead-magnets",
@@ -1432,7 +1716,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53719,
+  "stars": 53720,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/lead-magnets"
  },
@@ -1447,9 +1731,39 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53719,
+  "stars": 53720,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails"
+ },
+ "a92b01bd": {
+  "archived": false,
+  "final_url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns",
+  "full_name": "vercel-labs/agent-skills",
+  "gh_description": "Vercel's official collection of agent skills",
+  "homepage": "https://skills.sh/vercel-labs/agent-skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "",
+  "oembed_title": "",
+  "pushed_at": "2026-08-28",
+  "stars": 32087,
+  "status": "ok",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns"
+ },
+ "aa97c487": {
+  "archived": false,
+  "final_url": "https://github.com/firecrawl/skills",
+  "full_name": "firecrawl/skills",
+  "gh_description": "",
+  "homepage": "",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "ISC",
+  "oembed_title": "",
+  "pushed_at": "2026-10-08",
+  "stars": 116,
+  "status": "ok",
+  "url": "https://github.com/firecrawl/skills"
  },
  "aac1c948": {
   "archived": false,
@@ -1462,7 +1776,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-25",
-  "stars": 18237,
+  "stars": 18239,
   "status": "ok",
   "url": "https://github.com/bradautomates/claude-video"
  },
@@ -1507,7 +1821,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 179978,
+  "stars": 179981,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing"
  },
@@ -1522,7 +1836,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 97304,
+  "stars": 97305,
   "status": "ok",
   "url": "https://github.com/microsoft/playwright"
  },
@@ -1553,7 +1867,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 135610,
+  "stars": 135612,
   "status": "ok",
   "url": "https://github.com/garrytan/gstack"
  },
@@ -1568,7 +1882,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 158232,
+  "stars": 158253,
   "status": "ok",
   "url": "https://github.com/DietrichGebert/ponytail#install"
  },
@@ -1598,7 +1912,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53719,
+  "stars": 53720,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ad-creative/SKILL.md"
  },
@@ -1642,7 +1956,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 98283,
+  "stars": 98300,
   "status": "ok",
   "url": "https://github.com/thedotmack/claude-mem"
  },
@@ -1661,6 +1975,21 @@
   "status": "ok",
   "url": "https://github.com/Schoepplake/framer-motion-skill"
  },
+ "bdc69854": {
+  "archived": false,
+  "final_url": "https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-website-design-clone",
+  "full_name": "firecrawl/firecrawl-workflows",
+  "gh_description": "",
+  "homepage": "",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "ISC",
+  "oembed_title": "",
+  "pushed_at": "2026-08-21",
+  "stars": 185,
+  "status": "ok",
+  "url": "https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-website-design-clone"
+ },
  "be88a16b": {
   "archived": false,
   "final_url": "https://jeffallan.github.io/claude-skills/skills/data-ml/rag-architect/",
@@ -1676,6 +2005,21 @@
   "stars": null,
   "status": "ok",
   "url": "https://jeffallan.github.io/claude-skills/skills/data-ml/rag-architect"
+ },
+ "bec1cf0e": {
+  "archived": false,
+  "final_url": "https://github.com/petergyang/no-ai-slop/tree/main/skills/no-ai-slop",
+  "full_name": "petergyang/no-ai-slop",
+  "gh_description": "Removes 20+ patterns of AI slop from any piece of writing.",
+  "homepage": "https://creatoreconomy.so/p/use-my-no-ai-slop-skill-to-remove-20-ai-slop-patterns",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-09-02",
+  "stars": 12061,
+  "status": "ok",
+  "url": "https://github.com/petergyang/no-ai-slop/tree/main/skills/no-ai-slop"
  },
  "c07f9e6a": {
   "archived": false,
@@ -1694,17 +2038,18 @@
  },
  "c24961d1": {
   "archived": false,
+  "error": "bot-blocking host answered 403",
   "final_url": "https://www.reddit.com/r/ClaudeAI/comments/1r66oo0/how_i_structure_claude_code_projects_claudemd/",
   "full_name": "",
   "gh_description": "",
-  "http_status": 200,
+  "http_status": 403,
   "last_checked": "2026-10-08",
   "license": "",
   "oembed_title": "",
   "page_title": "Reddit",
   "pushed_at": "",
   "stars": null,
-  "status": "ok",
+  "status": "manual_ok",
   "url": "https://www.reddit.com/r/ClaudeAI/comments/1r66oo0/how_i_structure_claude_code_projects_claudemd"
  },
  "c3210beb": {
@@ -1721,6 +2066,21 @@
   "stars": 1080,
   "status": "ok",
   "url": "https://github.com/AgriciDaniel/banana-claude"
+ },
+ "c32a1738": {
+  "archived": false,
+  "final_url": "https://github.com/bradautomates/claude-video/tree/main/skills/watch",
+  "full_name": "bradautomates/claude-video",
+  "gh_description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+  "homepage": "",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-09-25",
+  "stars": 18239,
+  "status": "ok",
+  "url": "https://github.com/bradautomates/claude-video/tree/main/skills/watch"
  },
  "c64f0a72": {
   "archived": false,
@@ -1749,7 +2109,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brutalist-skill"
  },
@@ -1779,7 +2139,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 179978,
+  "stars": 179981,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines"
  },
@@ -1815,6 +2175,21 @@
   "status": "ok",
   "url": "https://www.linkedin.com/posts/aagupta_dave-killeen-cant-write-code-he-runs-his-share-7440767281930067968-AHA3"
  },
+ "d207deb3": {
+  "archived": false,
+  "final_url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/design/skills/design-critique",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "gh_description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "homepage": "",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "Apache-2.0",
+  "oembed_title": "",
+  "pushed_at": "2026-10-08",
+  "stars": 27410,
+  "status": "ok",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/design/skills/design-critique"
+ },
  "d2c6e7d3": {
   "archived": false,
   "final_url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor",
@@ -1826,7 +2201,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-09-18",
-  "stars": 76703,
+  "stars": 76704,
   "status": "ok",
   "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor"
  },
@@ -1863,7 +2238,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-22",
-  "stars": 24692,
+  "stars": 24693,
   "status": "ok",
   "url": "https://github.com/alchaincyf/huashu-design"
  },
@@ -1878,7 +2253,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-28",
-  "stars": 54901,
+  "stars": 54903,
   "status": "ok",
   "url": "https://github.com/blader/humanizer"
  },
@@ -1938,7 +2313,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill"
  },
@@ -1956,6 +2331,21 @@
   "stars": 1243,
   "status": "ok",
   "url": "https://github.com/higgsfield-ai/skills"
+ },
+ "e8d519ed": {
+  "archived": false,
+  "final_url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-design/skills/generate-design",
+  "full_name": "google-labs-code/stitch-skills",
+  "gh_description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "Apache-2.0",
+  "oembed_title": "",
+  "pushed_at": "2026-08-17",
+  "stars": 8442,
+  "status": "ok",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-design/skills/generate-design"
  },
  "e9478db1": {
   "archived": false,
@@ -2003,7 +2393,29 @@
   "status": "ok",
   "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
  },
+ "ebdce01a": {
+  "archived": false,
+  "final_url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-design/skills/extract-design-md",
+  "full_name": "google-labs-code/stitch-skills",
+  "gh_description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "Apache-2.0",
+  "oembed_title": "",
+  "pushed_at": "2026-08-17",
+  "stars": 8442,
+  "status": "ok",
+  "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-design/skills/extract-design-md"
+ },
  "ebf3dd6a": {
+  "also": {
+   "https://github.com/vercel-labs/skills/tree/main/skills/find-skills": {
+    "final_url": "https://github.com/vercel-labs/skills/tree/main/skills/find-skills",
+    "http_status": 200,
+    "status": "ok"
+   }
+  },
   "archived": false,
   "final_url": "https://github.com/vercel-labs/skills",
   "full_name": "vercel-labs/skills",
@@ -2036,7 +2448,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 158306,
+  "stars": 158311,
   "status": "ok",
   "url": "https://github.com/msitarzewski/agency-agents"
  },
@@ -2051,9 +2463,24 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44329,
+  "stars": 44332,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/animation-vocabulary"
+ },
+ "f4730463": {
+  "archived": false,
+  "final_url": "https://github.com/supabase/agent-skills/tree/main/skills/supabase",
+  "full_name": "supabase/agent-skills",
+  "gh_description": "Agent Skills to help developers using AI agents with Supabase",
+  "homepage": "https://supabase.com/docs/guides/getting-started/ai-skills",
+  "http_status": 200,
+  "last_checked": "2026-10-08",
+  "license": "MIT",
+  "oembed_title": "",
+  "pushed_at": "2026-10-02",
+  "stars": 2708,
+  "status": "ok",
+  "url": "https://github.com/supabase/agent-skills/tree/main/skills/supabase"
  },
  "f79e9379": {
   "archived": false,
@@ -2082,11 +2509,18 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 93767,
+  "stars": 93772,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/imagegen-frontend-mobile"
  },
  "fa436184": {
+  "also": {
+   "https://github.com/pbakaus/impeccable/tree/main/.agents/skills/impeccable": {
+    "final_url": "https://github.com/pbakaus/impeccable/tree/main/.agents/skills/impeccable",
+    "http_status": 200,
+    "status": "ok"
+   }
+  },
   "archived": false,
   "final_url": "https://github.com/pbakaus/impeccable",
   "full_name": "pbakaus/impeccable",
@@ -2097,7 +2531,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 78583,
+  "stars": 78587,
   "status": "ok",
   "url": "https://github.com/pbakaus/impeccable"
  },
@@ -2159,7 +2593,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 22318,
+  "stars": 22319,
   "status": "ok",
   "url": "https://github.com/steipete/CodexBar"
  }

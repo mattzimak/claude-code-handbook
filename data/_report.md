@@ -4,7 +4,7 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-08. Block id
 
 ## Counts
 
-- entries: 137
+- entries: 164
 - Agent teams and subagents: 3
 - Collections: 6
 - Field notes / Context: 1
@@ -17,6 +17,7 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-08. Block id
 - Skills / Development: 15
 - Skills / General: 11
 - Skills / Image & Video Editing: 9
+- Skills / Installed on my machine: 27
 - Skills / Marketing - Ads & SEO: 15
 - Skills / Marketing - Content & Writing: 4
 - Skills / Project management: 1
@@ -348,6 +349,11 @@ Blocks forced private by config (private_block_ids):
 - https://agentmatik.ai/llms-full.txt: fetched=True parsed=62 matched_by_url=36 matched_by_name=15 new=6
 - skipped (no repo URL on the site): agents-skills-autoreview, dont-hack-me, larry (LarryLoop), paid-media-skills (Ryze), prompt-guard
 - matched by name (site name -> entry): canvas-design -> Canvas Design, code-reviewer (jeffallan) -> Code Reviewer, competitive-ads-extractor -> ComposioHQ/awesome-claude-skills/competitive-ads-extractor, content-research-writer -> Content Research Writer, emil-design-eng -> emil-design-eng, feature-forge -> Feature Forge, find-skills (ClawHub) -> find-skills, frontend-design -> Frontend design, rag-architect -> RAG Architect, secure-code-guardian -> Secure Code Guardian, skill-creator -> skill-creator, spec-miner -> Spec Miner, the-fool -> The Fool, theme-factory -> Theme Factory, webapp-testing -> Web App Testing (official)
+
+## Second source (site)
+
+- local:docs/cc-setup/installed-skills.json: fetched=True parsed=36 matched_by_url=5 matched_by_name=4 new=27
+- matched by name (site name -> entry): emil-design-eng -> emil-design-eng, ui-ux-pro-max -> ui-ux-pro-max, impeccable -> Impeccable, find-skills -> find-skills
 
 ## Open decisions (from tools/lint.py)
 
