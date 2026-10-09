@@ -10,7 +10,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 63789,
+  "stars": 63833,
   "status": "ok",
   "url": "https://github.com/mvanhorn/last30days-skill"
  },
@@ -25,7 +25,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/gpt-tasteskill"
  },
@@ -40,7 +40,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/stitch-skill"
  },
@@ -54,8 +54,8 @@
   "last_checked": "2026-10-09",
   "license": "MIT",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 125175,
+  "pushed_at": "2026-10-09",
+  "stars": 125201,
   "status": "redirected",
   "url": "https://github.com/shadcn/ui/tree/main/skills/shadcn"
  },
@@ -70,7 +70,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-04",
-  "stars": 18573,
+  "stars": 18604,
   "status": "ok",
   "url": "https://github.com/AgriciDaniel/claude-seo"
  },
@@ -85,7 +85,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-15",
-  "stars": 49312,
+  "stars": 49325,
   "status": "ok",
   "url": "https://github.com/kepano/obsidian-skills"
  },
@@ -130,7 +130,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-08-30",
-  "stars": 27889,
+  "stars": 27915,
   "status": "ok",
   "url": "https://github.com/alirezarezvani/claude-skills"
  },
@@ -160,7 +160,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 2708,
+  "stars": 2707,
   "status": "ok",
   "url": "https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices"
  },
@@ -220,7 +220,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/redesign-skill"
  },
@@ -234,8 +234,8 @@
   "last_checked": "2026-10-09",
   "license": "MIT",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 125175,
+  "pushed_at": "2026-10-09",
+  "stars": 125201,
   "status": "ok",
   "url": "https://github.com/shadcn-ui/ui"
  },
@@ -250,7 +250,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 296655,
+  "stars": 296830,
   "status": "ok",
   "url": "https://github.com/obra/superpowers"
  },
@@ -265,7 +265,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-04-17",
-  "stars": 328,
+  "stars": 329,
   "status": "ok",
   "url": "https://github.com/AlmogBaku/debug-skill"
  },
@@ -279,8 +279,8 @@
   "last_checked": "2026-10-09",
   "license": "",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 180043,
+  "pushed_at": "2026-10-09",
+  "stars": 180141,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md"
  },
@@ -295,7 +295,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53823,
+  "stars": 53911,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo"
  },
@@ -309,8 +309,8 @@
   "last_checked": "2026-10-09",
   "license": "",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 180043,
+  "pushed_at": "2026-10-09",
+  "stars": 180141,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md"
  },
@@ -325,7 +325,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 36307,
+  "stars": 36344,
   "status": "ok",
   "url": "https://github.com/JCodesMore/ai-website-cloner-template"
  },
@@ -354,7 +354,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 2454,
+  "stars": 2456,
   "status": "ok",
   "url": "https://github.com/googlechrome/modern-web-guidance/tree/main/skills/chrome-extensions"
  },
@@ -369,7 +369,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 29255,
+  "stars": 29260,
   "status": "ok",
   "url": "https://github.com/rohitg00/agentmemory"
  },
@@ -383,8 +383,8 @@
   "last_checked": "2026-10-09",
   "license": "MIT",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 281503,
+  "pushed_at": "2026-10-09",
+  "stars": 282365,
   "status": "ok",
   "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape"
  },
@@ -431,7 +431,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-08-28",
-  "stars": 32102,
+  "stars": 32118,
   "status": "ok",
   "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines"
  },
@@ -445,8 +445,8 @@
   "last_checked": "2026-10-09",
   "license": "",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 180043,
+  "pushed_at": "2026-10-09",
+  "stars": 180141,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md"
  },
@@ -461,7 +461,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44495,
+  "stars": 44668,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/apple-design"
  },
@@ -476,7 +476,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44495,
+  "stars": 44668,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/improve-animations"
  },
@@ -507,7 +507,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 40025,
+  "stars": 40035,
   "status": "ok",
   "url": "https://github.com/hkuds/lightrag"
  },
@@ -522,7 +522,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/taste-skill"
  },
@@ -537,7 +537,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-08-24",
-  "stars": 2909,
+  "stars": 2910,
   "status": "ok",
   "url": "https://github.com/addyosmani/web-quality-skills"
  },
@@ -552,7 +552,7 @@
   "license": "ISC",
   "oembed_title": "",
   "pushed_at": "2026-09-09",
-  "stars": 5984,
+  "stars": 5986,
   "status": "ok",
   "url": "https://github.com/21st-dev/magic-mcp"
  },
@@ -567,7 +567,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-09-18",
-  "stars": 76721,
+  "stars": 76748,
   "status": "ok",
   "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/content-research-writer/SKILL.md"
  },
@@ -596,8 +596,8 @@
   "last_checked": "2026-10-09",
   "license": "",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 180043,
+  "pushed_at": "2026-10-09",
+  "stars": 180141,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
  },
@@ -612,7 +612,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 2454,
+  "stars": 2456,
   "status": "ok",
   "url": "https://github.com/googlechrome/modern-web-guidance/tree/main/skills/modern-web-guidance"
  },
@@ -633,8 +633,8 @@
   "last_checked": "2026-10-09",
   "license": "Apache-2.0",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 110629,
+  "pushed_at": "2026-10-09",
+  "stars": 110734,
   "status": "ok",
   "url": "https://github.com/JuliusBrussee/caveman"
  },
@@ -649,7 +649,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 275530,
+  "stars": 275823,
   "status": "ok",
   "url": "https://github.com/affaan-m/ecc"
  },
@@ -679,8 +679,8 @@
   "last_checked": "2026-10-09",
   "license": "MIT",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 281503,
+  "pushed_at": "2026-10-09",
+  "stars": 282365,
   "status": "ok",
   "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats"
  },
@@ -695,7 +695,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit"
  },
@@ -742,7 +742,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-08-31",
-  "stars": 110174,
+  "stars": 110214,
   "status": "ok",
   "url": "https://github.com/openai/whisper"
  },
@@ -789,7 +789,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-07-08",
-  "stars": 33993,
+  "stars": 34015,
   "status": "ok",
   "url": "https://github.com/openai/codex-plugin-cc"
  },
@@ -816,7 +816,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-08-17",
-  "stars": 8443,
+  "stars": 8458,
   "status": "ok",
   "url": "https://github.com/google-labs-code/stitch-skills"
  },
@@ -831,7 +831,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44495,
+  "stars": 44668,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/find-animation-opportunities"
  },
@@ -846,7 +846,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 296655,
+  "stars": 296830,
   "status": "ok",
   "url": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees"
  },
@@ -876,7 +876,7 @@
   "license": "ISC",
   "oembed_title": "",
   "pushed_at": "2026-08-21",
-  "stars": 187,
+  "stars": 188,
   "status": "ok",
   "url": "https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-dashboard-reporting"
  },
@@ -897,8 +897,8 @@
   "last_checked": "2026-10-09",
   "license": "MIT",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 74406,
+  "pushed_at": "2026-10-09",
+  "stars": 74599,
   "status": "ok",
   "url": "https://github.com/diegosouzapw/OmniRoute"
  },
@@ -928,8 +928,8 @@
   "last_checked": "2026-10-09",
   "license": "MIT",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 281503,
+  "pushed_at": "2026-10-09",
+  "stars": 282365,
   "status": "ok",
   "url": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments"
  },
@@ -937,7 +937,7 @@
   "archived": false,
   "final_url": "https://github.com/firecrawl/cli",
   "full_name": "firecrawl/cli",
-  "gh_description": "CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents",
+  "gh_description": "Firecrawl CLI and agent skills: web search, scraping, crawling and browser interaction from your terminal or any coding agent. Firecrawl is the most complete web data API for AI agents.",
   "homepage": "http://docs.firecrawl.dev/cli",
   "http_status": 200,
   "last_checked": "2026-10-09",
@@ -1012,7 +1012,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 133986,
+  "stars": 134179,
   "status": "ok",
   "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
  },
@@ -1026,8 +1026,8 @@
   "last_checked": "2026-10-09",
   "license": "Apache-2.0",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 27833,
+  "pushed_at": "2026-10-09",
+  "stars": 28110,
   "status": "ok",
   "url": "https://github.com/anthropics/knowledge-work-plugins"
  },
@@ -1042,7 +1042,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 9828,
+  "stars": 9845,
   "status": "ok",
   "url": "https://github.com/AgriciDaniel/claude-ads"
  },
@@ -1057,7 +1057,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 4927,
+  "stars": 4957,
   "status": "ok",
   "url": "https://github.com/remotion-dev/skills"
  },
@@ -1072,7 +1072,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-07-21",
-  "stars": 393,
+  "stars": 395,
   "status": "ok",
   "url": "https://github.com/currents-dev/playwright-best-practices-skill"
  },
@@ -1103,7 +1103,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53823,
+  "stars": 53911,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills"
  },
@@ -1132,7 +1132,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-19",
-  "stars": 4227,
+  "stars": 4231,
   "status": "ok",
   "url": "https://github.com/dexhunter/seedance2-skill"
  },
@@ -1178,7 +1178,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/minimalist-skill"
  },
@@ -1207,7 +1207,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 40305,
+  "stars": 40302,
   "status": "ok",
   "url": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/tailwind-design-system"
  },
@@ -1275,7 +1275,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 2185,
+  "stars": 2187,
   "status": "ok",
   "url": "https://github.com/digitalsamba/claude-code-video-toolkit"
  },
@@ -1297,7 +1297,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-05",
-  "stars": 2057,
+  "stars": 2058,
   "status": "ok",
   "url": "https://github.com/figma/mcp-server-guide/tree/main/skills"
  },
@@ -1312,7 +1312,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/imagegen-frontend-web"
  },
@@ -1354,7 +1354,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-08-28",
-  "stars": 32102,
+  "stars": 32118,
   "status": "ok",
   "url": "https://github.com/vercel-labs/agent-skills"
  },
@@ -1369,7 +1369,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-08-17",
-  "stars": 8443,
+  "stars": 8458,
   "status": "ok",
   "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-build/skills/react-components"
  },
@@ -1384,7 +1384,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 59352,
+  "stars": 59667,
   "status": "ok",
   "url": "https://github.com/heygen-com/hyperframes"
  },
@@ -1411,7 +1411,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-06",
-  "stars": 23051,
+  "stars": 23050,
   "status": "ok",
   "url": "https://github.com/czlonkowski/n8n-mcp"
  },
@@ -1426,7 +1426,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53823,
+  "stars": 53911,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/content-strategy/SKILL.md"
  },
@@ -1441,7 +1441,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-06",
-  "stars": 389,
+  "stars": 390,
   "status": "ok",
   "url": "https://github.com/testdino-hq/playwright-skill"
  },
@@ -1456,7 +1456,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-02-26",
-  "stars": 2496,
+  "stars": 2495,
   "status": "ok",
   "url": "https://github.com/snarktank/antfarm"
  },
@@ -1471,7 +1471,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-08-28",
-  "stars": 32102,
+  "stars": 32118,
   "status": "ok",
   "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-view-transitions"
  },
@@ -1485,8 +1485,8 @@
   "last_checked": "2026-10-09",
   "license": "",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 149762,
+  "pushed_at": "2026-10-09",
+  "stars": 149845,
   "status": "ok",
   "url": "https://github.com/anthropics/claude-code"
  },
@@ -1513,7 +1513,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44495,
+  "stars": 44668,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/emil-design-eng"
  },
@@ -1528,7 +1528,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44495,
+  "stars": 44668,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/review-animations"
  },
@@ -1550,7 +1550,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-10",
-  "stars": 15418,
+  "stars": 15428,
   "status": "ok",
   "url": "https://github.com/AgriciDaniel/claude-obsidian"
  },
@@ -1565,7 +1565,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/image-to-code-skill"
  },
@@ -1611,7 +1611,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53823,
+  "stars": 53911,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit"
  },
@@ -1656,7 +1656,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 2708,
+  "stars": 2707,
   "status": "ok",
   "url": "https://github.com/supabase/agent-skills"
  },
@@ -1671,7 +1671,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/soft-skill"
  },
@@ -1701,7 +1701,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44495,
+  "stars": 44668,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills"
  },
@@ -1716,7 +1716,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53823,
+  "stars": 53911,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/lead-magnets"
  },
@@ -1731,7 +1731,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53823,
+  "stars": 53911,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails"
  },
@@ -1746,7 +1746,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-08-28",
-  "stars": 32102,
+  "stars": 32118,
   "status": "ok",
   "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns"
  },
@@ -1754,7 +1754,7 @@
   "archived": false,
   "final_url": "https://github.com/firecrawl/skills",
   "full_name": "firecrawl/skills",
-  "gh_description": "",
+  "gh_description": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents.",
   "homepage": "",
   "http_status": 200,
   "last_checked": "2026-10-09",
@@ -1776,7 +1776,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-25",
-  "stars": 18255,
+  "stars": 18277,
   "status": "ok",
   "url": "https://github.com/bradautomates/claude-video"
  },
@@ -1806,7 +1806,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 28466,
+  "stars": 28500,
   "status": "ok",
   "url": "https://github.com/browser-use/video-use"
  },
@@ -1820,8 +1820,8 @@
   "last_checked": "2026-10-09",
   "license": "",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 180043,
+  "pushed_at": "2026-10-09",
+  "stars": 180141,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing"
  },
@@ -1836,7 +1836,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 97334,
+  "stars": 97360,
   "status": "ok",
   "url": "https://github.com/microsoft/playwright"
  },
@@ -1867,7 +1867,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 135669,
+  "stars": 135712,
   "status": "ok",
   "url": "https://github.com/garrytan/gstack"
  },
@@ -1882,7 +1882,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 158828,
+  "stars": 159421,
   "status": "ok",
   "url": "https://github.com/DietrichGebert/ponytail#install"
  },
@@ -1897,7 +1897,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 1354,
+  "stars": 1356,
   "status": "ok",
   "url": "https://github.com/jordanrendric/claude-video-vision"
  },
@@ -1912,7 +1912,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 53823,
+  "stars": 53911,
   "status": "ok",
   "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ad-creative/SKILL.md"
  },
@@ -1927,7 +1927,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-09-24",
-  "stars": 3978,
+  "stars": 4027,
   "status": "ok",
   "url": "https://github.com/irinabuht12-oss/marketing-skills"
  },
@@ -1956,7 +1956,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 98697,
+  "stars": 98928,
   "status": "ok",
   "url": "https://github.com/thedotmack/claude-mem"
  },
@@ -1986,7 +1986,7 @@
   "license": "ISC",
   "oembed_title": "",
   "pushed_at": "2026-08-21",
-  "stars": 187,
+  "stars": 188,
   "status": "ok",
   "url": "https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-website-design-clone"
  },
@@ -2017,7 +2017,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-02",
-  "stars": 12083,
+  "stars": 12094,
   "status": "ok",
   "url": "https://github.com/petergyang/no-ai-slop/tree/main/skills/no-ai-slop"
  },
@@ -2032,7 +2032,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-09-21",
-  "stars": 10225,
+  "stars": 10227,
   "status": "ok",
   "url": "https://github.com/BehiSecc/awesome-claude-skills"
  },
@@ -2063,7 +2063,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 1080,
+  "stars": 1083,
   "status": "ok",
   "url": "https://github.com/AgriciDaniel/banana-claude"
  },
@@ -2078,7 +2078,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-25",
-  "stars": 18255,
+  "stars": 18277,
   "status": "ok",
   "url": "https://github.com/bradautomates/claude-video/tree/main/skills/watch"
  },
@@ -2109,7 +2109,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brutalist-skill"
  },
@@ -2124,7 +2124,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 55292,
+  "stars": 55315,
   "status": "ok",
   "url": "https://github.com/hesreallyhim/awesome-claude-code"
  },
@@ -2138,8 +2138,8 @@
   "last_checked": "2026-10-09",
   "license": "",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 180043,
+  "pushed_at": "2026-10-09",
+  "stars": 180141,
   "status": "ok",
   "url": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines"
  },
@@ -2185,8 +2185,8 @@
   "last_checked": "2026-10-09",
   "license": "Apache-2.0",
   "oembed_title": "",
-  "pushed_at": "2026-10-08",
-  "stars": 27833,
+  "pushed_at": "2026-10-09",
+  "stars": 28110,
   "status": "ok",
   "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/design/skills/design-critique"
  },
@@ -2201,7 +2201,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-09-18",
-  "stars": 76721,
+  "stars": 76748,
   "status": "ok",
   "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor"
  },
@@ -2238,7 +2238,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-22",
-  "stars": 24706,
+  "stars": 24733,
   "status": "ok",
   "url": "https://github.com/alchaincyf/huashu-design"
  },
@@ -2253,7 +2253,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-28",
-  "stars": 55009,
+  "stars": 55177,
   "status": "ok",
   "url": "https://github.com/blader/humanizer"
  },
@@ -2268,7 +2268,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 67287,
+  "stars": 67302,
   "status": "ok",
   "url": "https://github.com/shanraisshan/claude-code-best-practice"
  },
@@ -2313,7 +2313,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill"
  },
@@ -2328,7 +2328,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-26",
-  "stars": 1246,
+  "stars": 1248,
   "status": "ok",
   "url": "https://github.com/higgsfield-ai/skills"
  },
@@ -2343,7 +2343,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-08-17",
-  "stars": 8443,
+  "stars": 8458,
   "status": "ok",
   "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-design/skills/generate-design"
  },
@@ -2358,7 +2358,7 @@
   "license": "",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 541,
+  "stars": 540,
   "status": "ok",
   "url": "https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop/asd-ste100"
  },
@@ -2389,7 +2389,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-09-30",
-  "stars": 15118,
+  "stars": 15119,
   "status": "ok",
   "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
  },
@@ -2404,7 +2404,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-08-17",
-  "stars": 8443,
+  "stars": 8458,
   "status": "ok",
   "url": "https://github.com/google-labs-code/stitch-skills/tree/main/plugins/stitch-design/skills/extract-design-md"
  },
@@ -2426,7 +2426,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 33486,
+  "stars": 33547,
   "status": "ok",
   "url": "https://github.com/vercel-labs/skills"
  },
@@ -2448,7 +2448,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-07",
-  "stars": 158383,
+  "stars": 158483,
   "status": "ok",
   "url": "https://github.com/msitarzewski/agency-agents"
  },
@@ -2463,7 +2463,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 44495,
+  "stars": 44668,
   "status": "ok",
   "url": "https://github.com/emilkowalski/skills/tree/main/skills/animation-vocabulary"
  },
@@ -2478,7 +2478,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-02",
-  "stars": 2708,
+  "stars": 2707,
   "status": "ok",
   "url": "https://github.com/supabase/agent-skills/tree/main/skills/supabase"
  },
@@ -2509,7 +2509,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-08",
-  "stars": 93902,
+  "stars": 94045,
   "status": "ok",
   "url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/imagegen-frontend-mobile"
  },
@@ -2531,7 +2531,7 @@
   "license": "Apache-2.0",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 78743,
+  "stars": 78945,
   "status": "ok",
   "url": "https://github.com/pbakaus/impeccable"
  },
@@ -2577,8 +2577,8 @@
   "last_checked": "2026-10-09",
   "license": "MIT",
   "oembed_title": "",
-  "pushed_at": "2026-09-16",
-  "stars": 6396,
+  "pushed_at": "2026-10-09",
+  "stars": 6399,
   "status": "ok",
   "url": "https://github.com/czlonkowski/n8n-skills"
  },
@@ -2593,7 +2593,7 @@
   "license": "MIT",
   "oembed_title": "",
   "pushed_at": "2026-10-09",
-  "stars": 22328,
+  "stars": 22346,
   "status": "ok",
   "url": "https://github.com/steipete/CodexBar"
  }
