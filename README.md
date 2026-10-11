@@ -1,6 +1,6 @@
 # Claude Code handbook
 
-164 entries · last verified 2026-10-10 · 164 links checked · 0 dead
+164 entries · last verified 2026-10-11 · 164 links checked · 0 dead
 
 One founder's handbook for running a company on Claude Code: the skills I install, the setups I copied, the rules I keep, and the people worth learning from. It is not a directory of everything that exists - if something is here, it earned its place in real work. Suggest a link by opening an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
@@ -139,7 +139,7 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 ### Token burn & models
 
 - [Caveman](https://github.com/JuliusBrussee/caveman) - Cuts 65% of token usage by instructing Claude to respond in compressed, caveman-style shorthand - ideal for long sessions where context budget matters. · 110k stars · Apache-2.0 · updated 2026-10 · also: [linkedin.com](https://www.linkedin.com/posts/walid-boulanouar_i-saved-75-on-my-claude-code-bill-by-changing-share-7455179110076837888-6fvv)
-- [Omniroute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. · 74k stars · MIT · updated 2026-10 · also: [omniroute.online](https://omniroute.online)
+- [Omniroute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. · 75k stars · MIT · updated 2026-10 · also: [omniroute.online](https://omniroute.online)
 - [Ponytail](https://github.com/DietrichGebert/ponytail#install) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · 160k stars · MIT · updated 2026-10
 - [qmd-skill](https://github.com/levineam/qmd-skill) - Cuts an OpenClaw agent's token usage by up to 95% by compressing context handling - the difference between a cheap always-on assistant and an expensive one. Why: Always-on agents burn tokens around the clock; this is the single biggest cost lever we know. · 703 stars · updated 2026-02
 - [STE Writing Skill](https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop/asd-ste100) - A global Claude skill that rewrites technical prose (READMEs, PR descriptions, error messages, runbooks, release notes, code comments - never code or marketing copy) into ASD-STE100 Simplified Technical English, stripping AI-slop form. Two modes (strict for procedures/safety, STE-flavored for general docs) plus a 7-point self-lint; adapted to ban em/en dashes per Matt's hyphen-only rule. · 540 stars · updated 2026-10
@@ -202,7 +202,7 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [Git Worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) - Creates isolated workspaces for multiple branches so you never lose your current context when switching between them. · 297k stars · MIT · updated 2026-10
 - [LightRAG](https://github.com/hkuds/lightrag) - A fast, lightweight RAG system that enhances LLMs with graph-based retrieval, supporting multiple storage backends and multimodal data processing. · 40k stars · MIT · updated 2026-10
 - [Mobile Apps](https://github.com/sleekdotdesign/agent-skills) - Agent skills for building and testing mobile apps from Claude Code, covering React Native and Expo workflows. · 585 stars · MIT · updated 2026-10
-- [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - Use before writing any implementation code; walks through the full TDD cycle: write the failing test, watch it fail, then write just enough to pass it. · 390 stars · MIT · updated 2026-10
+- [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - Use before writing any implementation code; walks through the full TDD cycle: write the failing test, watch it fail, then write just enough to pass it. · 391 stars · MIT · updated 2026-10
 - [RAG Architect](https://jeffallan.github.io/claude-skills/skills/data-ml/rag-architect) - Designs the full RAG pipeline for any vector search or knowledge base project: chunking, embeddings, retrieval, and reranking.
 - [Secure Code Guardian](https://jeffallan.github.io/claude-skills/skills/security/secure-code-guardian) - If you’re building anything with auth, passwords, or user input, this writes secure code from the jump. no vulnerabilities you’ll regret later.
 - [Spec Miner](https://jeffallan.github.io/claude-skills/skills/workflow/spec-miner) - Point at inherited code with zero documentation; reads everything, traces data flows, and writes the spec that should have been there from day one.
@@ -531,7 +531,7 @@ From there everything is automated and reproducible from this repo alone:
 
 Nothing in this README is edited by hand. Fixes go to `data/overrides.json` (keyed by the entry id in `data/links.csv`) and the next build picks them up.
 
-Current build: 164 entries in 8 sections, 139 field notes. Links checked: 164, dead: 0, last check: 2026-10-10. What the sync excluded and why is in `data/_report.md`.
+Current build: 164 entries in 8 sections, 139 field notes. Links checked: 164, dead: 0, last check: 2026-10-11. What the sync excluded and why is in `data/_report.md`.
 
 ## License
 
