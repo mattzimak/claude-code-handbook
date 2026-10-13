@@ -1,10 +1,10 @@
 # awesome-sync report
 
-Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-12. Block ids are Notion block ids (open the page and append `#<id without dashes>` to jump).
+Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-13. Block ids are Notion block ids (open the page and append `#<id without dashes>` to jump).
 
 ## Counts
 
-- entries: 164
+- entries: 161
 - Agent teams and subagents: 3
 - Collections: 6
 - Field notes / Context: 1
@@ -14,15 +14,15 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-12. Block id
 - Learn: 12
 - Prompting: 5
 - Skills: 1
-- Skills / Development: 15
-- Skills / General: 11
+- Skills / Development: 14
+- Skills / General: 10
 - Skills / Image & Video Editing: 9
 - Skills / Installed on my machine: 27
 - Skills / Marketing - Ads & SEO: 15
 - Skills / Marketing - Content & Writing: 4
 - Skills / Project management: 1
 - Skills / Research: 2
-- Skills / Token burn & models: 5
+- Skills / Token burn & models: 4
 - Skills / Webdesign MCP & UI elements: 3
 - Skills / Webdesign dev skills: 17
 - Skills / Webdesign taste skills: 16
@@ -346,9 +346,8 @@ Blocks forced private by config (private_block_ids):
 
 ## Second source (site)
 
-- https://agentmatik.ai/llms-full.txt: fetched=True parsed=62 matched_by_url=36 matched_by_name=15 new=6
-- skipped (no repo URL on the site): agents-skills-autoreview, dont-hack-me, larry (LarryLoop), paid-media-skills (Ryze), prompt-guard
-- matched by name (site name -> entry): canvas-design -> Canvas Design, code-reviewer (jeffallan) -> Code Reviewer, competitive-ads-extractor -> ComposioHQ/awesome-claude-skills/competitive-ads-extractor, content-research-writer -> Content Research Writer, emil-design-eng -> emil-design-eng, feature-forge -> Feature Forge, find-skills (ClawHub) -> find-skills, frontend-design -> Frontend design, rag-architect -> RAG Architect, secure-code-guardian -> Secure Code Guardian, skill-creator -> skill-creator, spec-miner -> Spec Miner, the-fool -> The Fool, theme-factory -> Theme Factory, webapp-testing -> Web App Testing (official)
+- https://agentmatik.ai/llms-full.txt: fetched=True parsed=53 matched_by_url=36 matched_by_name=14 new=3
+- matched by name (site name -> entry): canvas-design -> Canvas Design, code-reviewer (jeffallan) -> Code Reviewer, competitive-ads-extractor -> ComposioHQ/awesome-claude-skills/competitive-ads-extractor, content-research-writer -> Content Research Writer, emil-design-eng -> emil-design-eng, feature-forge -> Feature Forge, frontend-design -> Frontend design, rag-architect -> RAG Architect, secure-code-guardian -> Secure Code Guardian, skill-creator -> skill-creator, spec-miner -> Spec Miner, the-fool -> The Fool, theme-factory -> Theme Factory, webapp-testing -> Web App Testing (official)
 
 ## Second source (site)
 
