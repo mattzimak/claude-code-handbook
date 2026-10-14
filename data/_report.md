@@ -1,6 +1,6 @@
 # awesome-sync report
 
-Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-13. Block ids are Notion block ids (open the page and append `#<id without dashes>` to jump).
+Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-14. Block ids are Notion block ids (open the page and append `#<id without dashes>` to jump).
 
 ## Counts
 
@@ -15,7 +15,7 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-13. Block id
 - Prompting: 5
 - Skills: 1
 - Skills / Development: 14
-- Skills / General: 10
+- Skills / General: 12
 - Skills / Image & Video Editing: 9
 - Skills / Installed on my machine: 27
 - Skills / Marketing - Ads & SEO: 15
@@ -24,7 +24,7 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-13. Block id
 - Skills / Research: 2
 - Skills / Token burn & models: 4
 - Skills / Webdesign MCP & UI elements: 3
-- Skills / Webdesign dev skills: 17
+- Skills / Webdesign dev skills: 15
 - Skills / Webdesign taste skills: 16
 - Tools and memory: 5
 - n8n with Claude Code: 2
@@ -347,6 +347,7 @@ Blocks forced private by config (private_block_ids):
 ## Second source (site)
 
 - https://agentmatik.ai/llms-full.txt: fetched=True parsed=53 matched_by_url=36 matched_by_name=14 new=3
+- unknown categories (defaulted): canvas-design (Web design), design-critique (Web design), emil-design-eng (Web design), figma-skills (Web design), framer-motion-skill (Web design), frontend-design (Web design), huashu-design (Web design), impeccable (Web design), landing-page-design (Web design), magic-mcp (Web design), stitch-skills (Web design), taste-skill (Web design), theme-factory (Web design), ui-ux-pro-max (Web design), web-design-guidelines (Web design)
 - matched by name (site name -> entry): canvas-design -> Canvas Design, code-reviewer (jeffallan) -> Code Reviewer, competitive-ads-extractor -> ComposioHQ/awesome-claude-skills/competitive-ads-extractor, content-research-writer -> Content Research Writer, emil-design-eng -> emil-design-eng, feature-forge -> Feature Forge, frontend-design -> Frontend design, rag-architect -> RAG Architect, secure-code-guardian -> Secure Code Guardian, skill-creator -> skill-creator, spec-miner -> Spec Miner, the-fool -> The Fool, theme-factory -> Theme Factory, webapp-testing -> Web App Testing (official)
 
 ## Second source (site)
