@@ -1,6 +1,6 @@
 # Claude Code handbook
 
-161 entries · last verified 2026-10-14 · 161 links checked · 0 dead
+161 entries · last verified 2026-10-15 · 161 links checked · 0 dead
 
 One founder's handbook for running a company on Claude Code: the skills I install, the setups I copied, the rules I keep, and the people worth learning from. It is not a directory of everything that exists - if something is here, it earned its place in real work. Suggest a link by opening an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
@@ -58,7 +58,7 @@ What I would send a founder who has one evening: my highest-rated picks and the 
 - [find-skills](https://github.com/vercel-labs/skills) - Discovers and installs skills from the open ecosystem - checks the skills.sh leaderboard, ranks by installs and source reputation, and installs straight from GitHub. Why: The package manager habit: instead of building from scratch, we check what already exists and vet it. · 34k stars · MIT · updated 2026-10 · also: [github.com](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) · Skills / General
 - [Frontend design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - Anthropic's official frontend design skill; encodes Vercel-style web interface guidelines, component patterns, and accessibility rules so Claude produces production-grade UI out of the box. Why: Raises the floor: UI output goes from generic to shippable without extra prompting. · 181k stars · updated 2026-10 · Skills / Webdesign dev skills
 - [higgsfield-generate](https://github.com/higgsfield-ai/skills) - Gives Claude one-command generation across 30+ models - Nano Banana 2/Pro for images, Seedance 2.0 for video with native audio, plus Kling, Veo, GPT Image 2, 3D, and Marketing Studio - including image-to-video, reframe, and virality scoring. (official Higgsfield · uses your connected Higgsfield MCP/account) Why: Powers our creative AI guides, including the champagne video - one skill instead of five tabs. · 1.3k stars · MIT · updated 2026-09 · Skills / Image & Video Editing
-- [Humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text. Why: Every piece of copy on agentmatik.ai passes through it. Non-negotiable in our content pipeline. · 56k stars · MIT · updated 2026-09 · Skills / Marketing - Content & Writing
+- [Humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text. Why: Every piece of copy on agentmatik.ai passes through it. Non-negotiable in our content pipeline. · 57k stars · MIT · updated 2026-09 · Skills / Marketing - Content & Writing
 
 ## Learn
 
@@ -222,14 +222,14 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML and CSS to declaratively define animated video frames that render to MP4, purpose-built for AI agents that need to programmatically produce video without a GUI. · 63k stars · Apache-2.0 · updated 2026-10
 - [higgsfield-generate](https://github.com/higgsfield-ai/skills) - Gives Claude one-command generation across 30+ models - Nano Banana 2/Pro for images, Seedance 2.0 for video with native audio, plus Kling, Veo, GPT Image 2, 3D, and Marketing Studio - including image-to-video, reframe, and virality scoring. (official Higgsfield · uses your connected Higgsfield MCP/account) Why: Powers our creative AI guides, including the champagne video - one skill instead of five tabs. · 1.3k stars · MIT · updated 2026-09
 - [Nano Banana 2](https://github.com/kingbootoshi/nano-banana-2-skill) - AI image generation skill powered by Gemini 3 Pro; supports green-screen transparency, reference images, and style transfer directly inside Claude Code. · 417 stars · MIT · updated 2026-04
-- [Remotion best practices](https://github.com/remotion-dev/skills) - Deep knowledge of animations, timing, and audio sync so Claude can produce programmatic videos using React and Remotion with production-grade output. · 5.1k stars · updated 2026-10
+- [Remotion best practices](https://github.com/remotion-dev/skills) - Deep knowledge of animations, timing, and audio sync so Claude can produce programmatic videos using React and Remotion with production-grade output. · 5.2k stars · updated 2026-10
 - [seedance-prompt-en](https://github.com/dexhunter/seedance2-skill) - Makes Claude an expert prompt engineer for Seedance 2.0, mastering the @ reference syntax, camera language, beat-matching, and shot structure to turn a rough idea into a precise, production-ready video prompt; built straight from ByteDance's official docs. (no key - pure prompt craft) Why: Pure prompt craft, no API key needed - the difference between a generic clip and a usable shot. · 4.3k stars · MIT · updated 2026-09
 
 ### Marketing - Content & Writing
 
 - [Content Research Writer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/content-research-writer/SKILL.md) - Full research → outline → draft pipeline that adds citations, improves hooks section by section, and enables systematic, high-quality content production at scale. · 77k stars · updated 2026-09
-- [Go Viral Bro (GVB)](https://github.com/charlesdove977/goviralbro) - acts as a trainable content brain - it discovers winning topics from 9+ platforms, generates hooks and full scripts, and automatically learns from your analytics to improve your content over time. · 269 stars · MIT · updated 2026-03
-- [Humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text. Why: Every piece of copy on agentmatik.ai passes through it. Non-negotiable in our content pipeline. · 56k stars · MIT · updated 2026-09
+- [Go Viral Bro (GVB)](https://github.com/charlesdove977/goviralbro) - acts as a trainable content brain - it discovers winning topics from 9+ platforms, generates hooks and full scripts, and automatically learns from your analytics to improve your content over time. · 270 stars · MIT · updated 2026-03
+- [Humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text. Why: Every piece of copy on agentmatik.ai passes through it. Non-negotiable in our content pipeline. · 57k stars · MIT · updated 2026-09
 - [Lookalike content](https://www.linkedin.com/posts/kieranjflanagan_claude-code-is-a-superpower-for-content-creators-ugcPost-7439322613698662401-Kt9I) - Analyzes your past content, identifies the patterns behind what performs best, and uses them to generate new trend-relevant content ideas more likely to resonate with your audience.
 
 ### Marketing - Ads & SEO
@@ -240,15 +240,15 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [Claude SEO](https://github.com/AgriciDaniel/claude-seo) - Full-site audits, schema validation. 12 sub-skills. · 18k stars · MIT · updated 2026-10
 - [ComposioHQ/awesome-claude-skills/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) - analyzes 3-5 competitors' active ads and outputs a gap analysis showing untapped angles you could own, ranks hooks by frequency, maps offer structures and CTA patterns, and identifies emotional angles nobody in your market is running. · `npx skills add https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor` · 77k stars · updated 2026-09
 - [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills) - 20+ skills: CRO, copywriting, SEO, email sequences, growth. · 54k stars · MIT · updated 2026-10
-- [Marketing skills by Ryze AI](https://github.com/irinabuht12-oss/marketing-skills) - specific but lower quality, 17 free skills that turn Claude into your marketing assistant. · 4.5k stars · updated 2026-10
+- [Marketing skills by Ryze AI](https://github.com/irinabuht12-oss/marketing-skills) - specific but lower quality, 17 free skills that turn Claude into your marketing assistant. · 4.6k stars · updated 2026-10
 - [Marketingskills/Ad Creative](https://github.com/coreyhaines31/marketingskills/blob/main/skills/ad-creative/SKILL.md) - Generate on-brand ad creative concepts, copy variations, and visual briefs across channels. · 54k stars · MIT · updated 2026-10
 - [Marketingskills/AI SEO](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo) - Optimize content for AI-powered search engines and answer engines, including structured data, entity coverage, and GEO/AEO best practices. · 54k stars · MIT · updated 2026-10
 - [Marketingskills/Content Strategy](https://github.com/coreyhaines31/marketingskills/blob/main/skills/content-strategy/SKILL.md) - Build a full content strategy including pillars, formats, cadence, and distribution channels. · 54k stars · MIT · updated 2026-10
 - [Marketingskills/Email Sequence](https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails) - Write multi-step email sequences for onboarding, nurture, and re-engagement campaigns. · 54k stars · MIT · updated 2026-10
 - [Marketingskills/Lead Magnets](https://github.com/coreyhaines31/marketingskills/tree/main/skills/lead-magnets) - The lead-magnets skill from Corey Haines' marketing skills collection (the whole collection is listed under Collections). · 54k stars · MIT · updated 2026-10
 - [Marketingskills/SEO Audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) - Run a comprehensive SEO audit covering technical issues, on-page optimization, content gaps, and actionable recommendations. · 54k stars · MIT · updated 2026-10
-- [meta-ads-skill](https://github.com/Varnan-Tech/opendirectory/blob/main/skills/meta-ads-skill) - Use when interacting with the Meta Ads CLI to manage accounts, campaigns, ads, and insights. Act as an Expert Media Buyer. · 677 stars · MIT · updated 2026-10
-- [noise-to-linkedin-carousel](https://github.com/Varnan-Tech/opendirectory/blob/main/skills/noise-to-linkedin-carousel) - Transforms messy, unstructured source material (transcripts, rough notes, voice memos) into polished, formatted LinkedIn carousel posts ready to publish. · 677 stars · MIT · updated 2026-10
+- [meta-ads-skill](https://github.com/Varnan-Tech/opendirectory/blob/main/skills/meta-ads-skill) - Use when interacting with the Meta Ads CLI to manage accounts, campaigns, ads, and insights. Act as an Expert Media Buyer. · 679 stars · MIT · updated 2026-10
+- [noise-to-linkedin-carousel](https://github.com/Varnan-Tech/opendirectory/blob/main/skills/noise-to-linkedin-carousel) - Transforms messy, unstructured source material (transcripts, rough notes, voice memos) into polished, formatted LinkedIn carousel posts ready to publish. · 679 stars · MIT · updated 2026-10
 
 ### Installed on my machine
 
@@ -288,7 +288,7 @@ Lists and directories I go back to when I need something I do not have yet.
 - [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated GitHub list maintained by the community. Great if you prefer a simple, hand-picked list over a full marketplace. · 10k stars · updated 2026-09
 - [claude code best practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect. · 67k stars · MIT · updated 2026-10
 - [Everything Claude Code (ECC)](https://github.com/affaan-m/ecc) - the largest Claude Code harness: about 290 skills, 68 agents, 124 rules and 97 commands, plus adapters for Codex, Cursor, OpenCode and more, 260k+ stars. The reference for what a complete setup looks like. Best when you want breadth or run several harnesses; it is heavy on context, so install the components you need rather than everything, and read its token optimization guide first. · 279k stars · MIT · updated 2026-10
-- [opendirectory](https://github.com/Varnan-Tech/opendirectory) - AI Agent Skills built for GTM, Technical Marketing, and growth automation. · 677 stars · MIT · updated 2026-10
+- [opendirectory](https://github.com/Varnan-Tech/opendirectory) - AI Agent Skills built for GTM, Technical Marketing, and growth automation. · 679 stars · MIT · updated 2026-10
 - [Skills Guide | Claude Skills](https://jeffallan.github.io/claude-skills/skills-guide) - Decision trees and skill combinations for choosing the right skill.
 - [gstack](https://github.com/garrytan/gstack) - my notes on it; the entry itself is under Agent teams and subagents:
   - **The core idea**
@@ -528,7 +528,7 @@ From there everything is automated and reproducible from this repo alone:
 
 Nothing in this README is edited by hand. Fixes go to `data/overrides.json` (keyed by the entry id in `data/links.csv`) and the next build picks them up.
 
-Current build: 161 entries in 8 sections, 139 field notes. Links checked: 161, dead: 0, last check: 2026-10-14. What the sync excluded and why is in `data/_report.md`.
+Current build: 161 entries in 8 sections, 139 field notes. Links checked: 161, dead: 0, last check: 2026-10-15. What the sync excluded and why is in `data/_report.md`.
 
 ## License
 
