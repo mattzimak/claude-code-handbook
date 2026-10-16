@@ -104,6 +104,7 @@ Source page: `2f6daecfce6b80088d45ca8548bba01b` - generated 2026-10-16. Block id
 Toggles:
 - `Skills > Collections > tenfoldmarc's GitHub (recommended first)` (35fdaecf-ce6b-80b3-9bb0-e5899213a68b)
 - `Skills > Collections > Dipanshu Kushwaha - Relevant Claude Code Skills - Curated th` (3a9daecf-ce6b-8057-8207-ff849b9442af)
+- `Connect with phone` (3fbdaecf-ce6b-8082-bfe4-e48691144959)
 
 Child pages (always private):
 - My CC Setup (383daecf-ce6b-80f1-af99-f22ad8409a62)
@@ -177,6 +178,8 @@ Loose root blocks (private):
 - bulleted_list_item (35fdaecf-ce6b-80a7-ba45-e5eddf6f57e6)
 - bulleted_list_item (3a9daecf-ce6b-80b1-85e1-ef835c265ace)
 - bulleted_list_item (3a9daecf-ce6b-80b0-b5af-f86851272e32)
+- paragraph (3fbdaecf-ce6b-8048-a6a9-fa69aa73747f) - www.instagram.com
+- paragraph (3fbdaecf-ce6b-8053-a080-e5ab58f4682d)
 - column_list (32cdaecf-ce6b-8023-848c-ccbb397ddd19)
 - column (32cdaecf-ce6b-8036-86bc-fcc374d01725)
 - column (32cdaecf-ce6b-806a-87f9-da9a085d5748)
