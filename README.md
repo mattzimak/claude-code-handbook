@@ -1,6 +1,6 @@
 # Claude Code handbook
 
-161 entries · last verified 2026-10-15 · 161 links checked · 0 dead
+161 entries · last verified 2026-10-16 · 161 links checked · 0 dead
 
 One founder's handbook for running a company on Claude Code: the skills I install, the setups I copied, the rules I keep, and the people worth learning from. It is not a directory of everything that exists - if something is here, it earned its place in real work. Suggest a link by opening an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
@@ -140,7 +140,7 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 ### Token burn & models
 
 - [Caveman](https://github.com/JuliusBrussee/caveman) - Cuts 65% of token usage by instructing Claude to respond in compressed, caveman-style shorthand - ideal for long sessions where context budget matters. · 112k stars · Apache-2.0 · updated 2026-10 · also: [linkedin.com](https://www.linkedin.com/posts/walid-boulanouar_i-saved-75-on-my-claude-code-bill-by-changing-share-7455179110076837888-6fvv)
-- [Omniroute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. · 76k stars · MIT · updated 2026-10 · also: [omniroute.online](https://omniroute.online)
+- [Omniroute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. · 77k stars · MIT · updated 2026-10 · also: [omniroute.online](https://omniroute.online)
 - [Ponytail](https://github.com/DietrichGebert/ponytail#install) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · 164k stars · MIT · updated 2026-10
 - [STE Writing Skill](https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop/asd-ste100) - A global Claude skill that rewrites technical prose (READMEs, PR descriptions, error messages, runbooks, release notes, code comments - never code or marketing copy) into ASD-STE100 Simplified Technical English, stripping AI-slop form. Two modes (strict for procedures/safety, STE-flavored for general docs) plus a 7-point self-lint; adapted to ban em/en dashes per Matt's hyphen-only rule. · 543 stars · updated 2026-10
 
@@ -196,7 +196,7 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [Code Reviewer](https://jeffallan.github.io/claude-skills/skills/quality/code-reviewer) - Use before opening a PR; delivers a full structured review covering what is broken, what is risky, what is messy, and what is solid.
 - [Debug this](https://github.com/AlmogBaku/debug-skill) - Use when stuck on a bug; gives real breakpoints, lets you step through execution line by line, and inspect live variable state. · 332 stars · MIT · updated 2026-04
 - [Feature Forge](https://jeffallan.github.io/claude-skills/skills/workflow/feature-forge) - Use before writing a single line of code; asks the right questions, thinks like both a PM and a dev, and hands you a full spec with requirements and acceptance criteria.
-- [Git Worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) - Creates isolated workspaces for multiple branches so you never lose your current context when switching between them. · 299k stars · MIT · updated 2026-10
+- [Git Worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) - Creates isolated workspaces for multiple branches so you never lose your current context when switching between them. · 300k stars · MIT · updated 2026-10
 - [LightRAG](https://github.com/hkuds/lightrag) - A fast, lightweight RAG system that enhances LLMs with graph-based retrieval, supporting multiple storage backends and multimodal data processing. · 40k stars · MIT · updated 2026-10
 - [Mobile Apps](https://github.com/sleekdotdesign/agent-skills) - Agent skills for building and testing mobile apps from Claude Code, covering React Native and Expo workflows. · 587 stars · MIT · updated 2026-10
 - [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - Use before writing any implementation code; walks through the full TDD cycle: write the failing test, watch it fail, then write just enough to pass it. · 395 stars · MIT · updated 2026-10
@@ -204,7 +204,7 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [Secure Code Guardian](https://jeffallan.github.io/claude-skills/skills/security/secure-code-guardian) - If you’re building anything with auth, passwords, or user input, this writes secure code from the jump. no vulnerabilities you’ll regret later.
 - [Spec Miner](https://jeffallan.github.io/claude-skills/skills/workflow/spec-miner) - Point at inherited code with zero documentation; reads everything, traces data flows, and writes the spec that should have been there from day one.
 - [Supabase Agent Skills](https://github.com/supabase/agent-skills) - Official Supabase skills that teach AI agents how to interact with Supabase databases, auth, storage, and edge functions from Claude Code. · 2.8k stars · MIT · updated 2026-10
-- [Superpowers](https://github.com/obra/superpowers) - Keeps context windows clean by dispatching isolated agents per task instead of one long session that drifts; covers the full software development workflow including brainstorming, planning, subagent-driven dev, TDD enforcement, code review, and git worktrees. Why: It is the backbone of how we build - every feature on this very website goes through its brainstorm and review steps. · 299k stars · MIT · updated 2026-10
+- [Superpowers](https://github.com/obra/superpowers) - Keeps context windows clean by dispatching isolated agents per task instead of one long session that drifts; covers the full software development workflow including brainstorming, planning, subagent-driven dev, TDD enforcement, code review, and git worktrees. Why: It is the backbone of how we build - every feature on this very website goes through its brainstorm and review steps. · 300k stars · MIT · updated 2026-10
 - [The Fool](https://jeffallan.github.io/claude-skills/skills/workflow/the-fool) - Use before committing to any big decision or architecture choice; challenges thinking from five angles including devil's advocate, red team, and pre-mortem.
 - [Web App Testing (official)](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Anthropic's official skill for testing web apps inside Claude Code using Playwright; opens a real browser, runs interaction tests, captures screenshots, and reports failures. · 181k stars · updated 2026-10
 
@@ -237,7 +237,7 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [agent-skills/google-ads](https://github.com/itallstartedwithaidea/agent-skills/tree/main/skills/google-ads) - Twelve Google Ads skills covering campaign audits, keyword work, and reporting. · 41 stars · MIT · updated 2026-04
 - [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Full Meta Ads skill pack that handles competitive intelligence, copy generation, account auditing, and ad scoring. · `npm install -g @anthropic-ai/claude-code` · 10k stars · MIT · updated 2026-10
 - [ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - Open-source AI marketing skills - growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation. · 3.6k stars · MIT · updated 2026-09
-- [Claude SEO](https://github.com/AgriciDaniel/claude-seo) - Full-site audits, schema validation. 12 sub-skills. · 18k stars · MIT · updated 2026-10
+- [Claude SEO](https://github.com/AgriciDaniel/claude-seo) - Full-site audits, schema validation. 12 sub-skills. · 19k stars · MIT · updated 2026-10
 - [ComposioHQ/awesome-claude-skills/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) - analyzes 3-5 competitors' active ads and outputs a gap analysis showing untapped angles you could own, ranks hooks by frequency, maps offer structures and CTA patterns, and identifies emotional angles nobody in your market is running. · `npx skills add https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor` · 77k stars · updated 2026-09
 - [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills) - 20+ skills: CRO, copywriting, SEO, email sequences, growth. · 54k stars · MIT · updated 2026-10
 - [Marketing skills by Ryze AI](https://github.com/irinabuht12-oss/marketing-skills) - specific but lower quality, 17 free skills that turn Claude into your marketing assistant. · 4.8k stars · updated 2026-10
@@ -260,7 +260,7 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [extract-design-system](https://github.com/arvindrk/extract-design-system/tree/main/skills/extract-design-system) - Extract design primitives from a public website and generate starter token files for your project. (installed 2026-07-07) · 245 stars · MIT · updated 2026-09
 - [firecrawl-dashboard-reporting](https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-dashboard-reporting) - Pull metrics from analytics dashboards and internal web tools with Firecrawl browser. (installed 2026-07-07) · 193 stars · ISC · updated 2026-10
 - [firecrawl-website-design-clone](https://github.com/firecrawl/firecrawl-workflows/tree/main/skills/firecrawl-website-design-clone) - Extract any website's design system into an agent-ready DESIGN.md using Firecrawl scrape evidence. (installed 2026-07-07) · 193 stars · ISC · updated 2026-10
-- [firecrawl/cli skill pack (8 skills)](https://github.com/firecrawl/cli) - 8 skills installed from one repo: firecrawl, firecrawl-agent, firecrawl-crawl, firecrawl-download, firecrawl-interact, firecrawl-map, firecrawl-scrape, firecrawl-search. (installed 2026-04-13) · 652 stars · updated 2026-10
+- [firecrawl/cli skill pack (8 skills)](https://github.com/firecrawl/cli) - 8 skills installed from one repo: firecrawl, firecrawl-agent, firecrawl-crawl, firecrawl-download, firecrawl-interact, firecrawl-map, firecrawl-scrape, firecrawl-search. (installed 2026-04-13) · 653 stars · updated 2026-10
 - [firecrawl/skills skill pack (4 skills)](https://github.com/firecrawl/skills) - 4 skills installed from one repo: firecrawl-build-interact, firecrawl-build-onboarding, firecrawl-build-scrape, firecrawl-build-search. (installed 2026-04-13) · 126 stars · ISC · updated 2026-10
 - [modern-web-guidance](https://github.com/googlechrome/modern-web-guidance/tree/main/skills/modern-web-guidance) - Search tool for modern web development best practices. MANDATORY: Execute FIRST for all HTML/CSS and clientside JS tasks. Do NOT skip - web APIs evolve rapidly and training weights contain obsolete patterns. (installed 2026-07-06) · 2.5k stars · Apache-2.0 · updated 2026-10
 - [no-ai-slop](https://github.com/petergyang/no-ai-slop/tree/main/skills/no-ai-slop) - Edit drafts into sharper, more human writing while preserving the writer's personal voice, or detect AI-slop patterns without rewriting. (installed 2026-09-15) · 12k stars · MIT · updated 2026-09
@@ -276,9 +276,9 @@ The skills I install, grouped by what they are for. Star counts and licenses com
 - [vercel-react-view-transitions](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-view-transitions) - Guide for implementing smooth, native-feeling animations using React's View Transition API ('&lt;ViewTransition>' component, 'addTransitionType', and CSS view transition pseudo-elements). (installed 2026-06-14) · 32k stars · updated 2026-10
 - [watch](https://github.com/bradautomates/claude-video/tree/main/skills/watch) - Watch a video (URL or local path). Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls the transcript from captions (or Whisper API fallback), and hands the result to Claude so it can answer questions about what's in the v... (installed 2026-07-16) · 18k stars · MIT · updated 2026-09
 - [web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines) - Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices". (installed 2026-06-14) · 32k stars · updated 2026-10
-- [writing-beats](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats) - Writing, exploit; assemble raw material into a journey of beats, grounding each term before a beat leans on it. (installed 2026-09-24) · 292k stars · MIT · updated 2026-10
-- [writing-fragments](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments) - Writing, explore: mine raw fragments, no structure yet. (installed 2026-09-24) · 292k stars · MIT · updated 2026-10
-- [writing-shape](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape) - Writing, exploit: shape raw material into an article, paragraph by paragraph. (installed 2026-09-24) · 292k stars · MIT · updated 2026-10
+- [writing-beats](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats) - Writing, exploit; assemble raw material into a journey of beats, grounding each term before a beat leans on it. (installed 2026-09-24) · 293k stars · MIT · updated 2026-10
+- [writing-fragments](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments) - Writing, explore: mine raw fragments, no structure yet. (installed 2026-09-24) · 293k stars · MIT · updated 2026-10
+- [writing-shape](https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape) - Writing, exploit: shape raw material into an article, paragraph by paragraph. (installed 2026-09-24) · 293k stars · MIT · updated 2026-10
 
 ## Collections
 
@@ -528,7 +528,7 @@ From there everything is automated and reproducible from this repo alone:
 
 Nothing in this README is edited by hand. Fixes go to `data/overrides.json` (keyed by the entry id in `data/links.csv`) and the next build picks them up.
 
-Current build: 161 entries in 8 sections, 139 field notes. Links checked: 161, dead: 0, last check: 2026-10-15. What the sync excluded and why is in `data/_report.md`.
+Current build: 161 entries in 8 sections, 139 field notes. Links checked: 161, dead: 0, last check: 2026-10-16. What the sync excluded and why is in `data/_report.md`.
 
 ## License
 
