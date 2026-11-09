@@ -70,5 +70,6 @@
       "min_entries": 2
     }
   ],
-  "start_here_max": 12
+  "start_here_max": 12,
+  "badge_status": "Unofficial"
 }

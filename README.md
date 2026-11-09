@@ -1,5 +1,7 @@
 # Claude Code handbook
 
+[![License](https://img.shields.io/github/license/mattzimak/claude-code-handbook)](https://github.com/mattzimak/claude-code-handbook/blob/main/LICENSE) ![Last commit](https://img.shields.io/github/last-commit/mattzimak/claude-code-handbook?label=updated) ![161 entries](https://img.shields.io/badge/161%20entries-2ea043) ![0 dead links](https://img.shields.io/badge/0%20dead%20links-2ea043) ![Unofficial](https://img.shields.io/badge/Unofficial-lightgrey)
+
 161 entries · last verified 2026-10-19 · 161 links checked · 0 dead
 
 One founder's handbook for running a company on Claude Code: the skills I install, the setups I copied, the rules I keep, and the people worth learning from. It is not a directory of everything that exists - if something is here, it earned its place in real work. Suggest a link by opening an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)).
